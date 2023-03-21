@@ -5,7 +5,10 @@ date: "2023-03-21"
 output: html_document
 ---
 
-![alt text here](/Users/alrousan95/Downloads/1659046394590 (1).png)
+
+
+knitr::include_graphics("/Users/alrousan95/Downloads/1659046394590 (1).png")
+
 
 # Hello! My name is Mohammad Al-Rousan 
 
@@ -23,3 +26,5 @@ output: html_document
 # As well, if anyone would like to view my projects please visit my [e-Portfolio](https://olympus.mygreatlearning.com/eportfolio) site, and you can view my work on my [GitHub](https://github.com/alrousan95/UT-McCombs-Project-Portfolio-/tree/main/Project%20Portfolio) page. 
 
 #[Case Study Application](http://127.0.0.1:5781/Project%20App.Rmd)
+
+
