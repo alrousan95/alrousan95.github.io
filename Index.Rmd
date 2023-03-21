@@ -1,9 +1,0 @@
----
-title: "Index"
-author: "Mohammad Al-Rousan"
-date: "2023-03-21"
-output: html_document
----
-
-## Hello! Welcome to my website! My name is Mohammad Al-Rousan and allow to 
-## give you a brief introduction to who I am!
