@@ -1,0 +1,22 @@
+---
+title: "About me"
+author: "Mohammad Al-Rousan"
+date: "2023-03-21"
+output: html_document
+---
+
+# Hello! My name is Mohammad Al-Rousan 
+
+
+# I was born and raised in Dallas, Texas, but I currently reside in Austin!
+
+# My interests include watching/playing sports, spending time with my lovely fiance, and most importantly spending time with my family. 
+
+# I currently work for Googe as an Intelligence Analyst.
+
+# I completed my undergraduate degree at Texas State University. 
+
+# If anyone would like to connect, my [LinkedIn](https://www.linkedin.com/in/mohammad-al-rousan-531683165/). 
+
+# As well, if anyone would like to view my projects please visit my [e-Portfolio](https://olympus.mygreatlearning.com/eportfolio) site, and you can view my work on my [GitHub](https://github.com/alrousan95/UT-McCombs-Project-Portfolio-/tree/main/Project%20Portfolio) page. 
+
